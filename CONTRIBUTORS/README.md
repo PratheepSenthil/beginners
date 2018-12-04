@@ -37,4 +37,12 @@
     <td >2</td>
     <td >Bangalore</td>
   </tr>
+  <tr>
+  	<td>Pratheep Senthil</td>
+  	<td><a href="https://github.com/pratheepsenthil">Github</a></td>
+  	<td><a href="https://www.linkedin.com/in/pratheep-senthil-45774a170">LinkdIn</a></td>
+  	<td>SSNCE</td>
+  	<td>2</td>
+  	<td>Chennai</td>
+  </tr>
 </table>
